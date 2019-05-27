@@ -6,7 +6,7 @@ import java.util.PriorityQueue;
 
 /* ESTA DANDO TLE */
 
-public class Lista6QuestaoBVersao3 {
+public class Lista6QuestaoBVersao3 {		//UVA11733
 	
 	public static int resposta;
 	public static int contador;
