@@ -31,7 +31,7 @@ public class Lista6QuestaoBVersao2 {
 				int X, Y, C;
 				X = in.nextInt();			// location 1
 				Y = in.nextInt();			// location 2
-				C = in.nextInt();			// costo of building a road between X and Y
+				C = in.nextInt();			// cost of building a road between X and Y
 				
 				vertices1.add(X, Y, C);
 				
