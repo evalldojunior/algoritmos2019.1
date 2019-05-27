@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.PriorityQueue;
 
+/* ESTA DANDO TLE*/
+
 public class Lista6QuestaoBVersao1 {         //UVA11733
 	
 	public static int resposta;
