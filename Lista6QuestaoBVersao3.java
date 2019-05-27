@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.PriorityQueue;
 
-public class Main {
+public class Lista6QuestaoBVersao3 {
 	
 	public static int resposta;
 	public static int contador;
