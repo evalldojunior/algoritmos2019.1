@@ -10,8 +10,8 @@ public class Lista8QuestaoA {   // UVA10130
 		while(T>0) {
 			int N = in.nextInt();			// numero de objetos
 			int[][] PD = new int[1001][1001]; 	// array para a programacao dinamica
-			int[] p = new int[101];			// array para preços
-			int[] w = new int[31];			// array para pesos
+			int[] p = new int[1001];			// array para preços
+			int[] w = new int[1001];			// array para pesos
 			int resposta = 0;
 			int soma = 0;
 			
